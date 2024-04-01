@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    height: 100vh;
+    margin: auto;
+}
+
+button {
+    cursor: pointer;
+    background-color: aquamarine;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+input {
+    outline: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
